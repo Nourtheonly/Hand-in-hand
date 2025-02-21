@@ -10,7 +10,8 @@
 /* Body Styling */
 body {
 
-background-color: aliceblue;    display: flex;
+background-color: aliceblue;  
+  display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -55,6 +56,7 @@ header  img {
     margin-bottom:130px;
     height: 500px;
     width: 600px;
+    
 }
 
 /* Login Header */
